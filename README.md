@@ -37,3 +37,7 @@ The training and validation losses for age prediction are plotted using matplotl
 Finally, the trained model is used to predict the gender and age of a test image ('xyz.jpeg'). The image is preprocessed and normalized similar to the training data. The model predicts the gender and age, which are then displayed along with the image using matplotlib.pyplot.imshow.
 
 Please note that this is a sample readme file to explain the code implementation. You may modify it as per your requirements and add additional sections or information as needed.
+
+DOWNLOAD DATASET FROM:
+1. Kaggle : https://www.kaggle.com/datasets/jangedoo/utkface-new
+2. utkface : (Aligned and cropped faces) https://susanqq.github.io/UTKFace/
